@@ -1,0 +1,73 @@
+{
+  "id": 1108702961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"107.69033,-6.903247,107.69033,-6.903247",
+    "geom:latitude":-6.903247,
+    "geom:longitude":107.69033,
+    "iso:country":"ID",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jl.Kosar 128 A Ujungberung",
+    "sg:city":"Bandung",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"40619",
+    "sg:tags":[
+        "activebox",
+        "web-design-and-development",
+        "iphone--ipod-touch-apps",
+        "cms",
+        "blog",
+        "templating",
+        "3d-game",
+        "modeling",
+        "animation"
+    ],
+    "sg:website":"http://activeboxsite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hOIznAC3Hys5gpyTwS3vE_-6.903247_107.690330@1308163241"
+    },
+    "wof:country":"ID",
+    "wof:created":1474570894,
+    "wof:geomhash":"5d6b99d070ef4c456f36e87ba2af098d",
+    "wof:hierarchy":[],
+    "wof:id":1108702961,
+    "wof:lastmodified":1474570894,
+    "wof:name":"ActiveBox",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "activebox",
+        "web-design-and-development",
+        "iphone--ipod-touch-apps",
+        "cms",
+        "blog",
+        "templating",
+        "3d-game",
+        "modeling",
+        "animation"
+    ]
+},
+  "bbox": [
+    107.69033,
+    -6.903247,
+    107.69033,
+    -6.903247
+],
+  "geometry": {"coordinates":[107.69033,-6.903247],"type":"Point"}
+}

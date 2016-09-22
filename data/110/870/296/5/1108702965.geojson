@@ -1,0 +1,84 @@
+{
+  "id": 1108702965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"106.8399623,-6.2078354,106.8399623,-6.2078354",
+    "geom:latitude":-6.207835,
+    "geom:longitude":106.839962,
+    "iso:country":"ID",
+    "mz:hierarchy_label":1,
+    "sg:address":"Puri Imperium Building - Office Plaza Unit G.9-10 Jalan Kuningan Madya Kav. 5-6",
+    "sg:city":"Jakarta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"12980",
+    "sg:tags":[
+        "software",
+        "smart-software",
+        "eis",
+        "executive-information-system",
+        "indonesia",
+        "jakarta"
+    ],
+    "sg:website":"http://www.masvent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672001,
+        "102191569",
+        "85632203",
+        102021905,
+        102073177,
+        85768447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X92dhaqBblS14jmvH7ylo_-6.207835_106.839962@1308163242"
+    },
+    "wof:country":"ID",
+    "wof:created":1474570894,
+    "wof:geomhash":"3a8a0c7cdf98fb68b9e442e2e633a83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632203",
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":85768447,
+            "region_id":85672001,
+            "venue_id":1108702965
+        }
+    ],
+    "wof:id":1108702965,
+    "wof:lastmodified":1474570894,
+    "wof:name":"Masvent",
+    "wof:parent_id":85768447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "smart-software",
+        "eis",
+        "executive-information-system",
+        "indonesia",
+        "jakarta"
+    ]
+},
+  "bbox": [
+    106.8399623,
+    -6.2078354,
+    106.8399623,
+    -6.2078354
+],
+  "geometry": {"coordinates":[106.8399623,-6.2078354],"type":"Point"}
+}

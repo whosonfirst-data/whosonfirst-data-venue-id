@@ -1,0 +1,86 @@
+{
+  "id": 1108702963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"106.888431,-6.196692,106.888431,-6.196692",
+    "geom:latitude":-6.196692,
+    "geom:longitude":106.888431,
+    "iso:country":"ID",
+    "mz:hierarchy_label":1,
+    "sg:address":"Komplek Ruko Graha Mas Pemuda Blok AD no. 3 Jl. Pemuda - Rawamangun",
+    "sg:city":"Jakarta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"13220",
+    "sg:tags":[
+        "sale",
+        "rent",
+        "property",
+        "tips-tricks",
+        "renovation",
+        "legal",
+        "financial"
+    ],
+    "sg:website":"http://propertykita.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672001,
+        "102191569",
+        "85632203",
+        102019279,
+        102073493,
+        85768559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nKtliEtEMMgeMH6ueLf6O_-6.196692_106.888431@1308163242"
+    },
+    "wof:country":"ID",
+    "wof:created":1474570894,
+    "wof:geomhash":"590e84f98a06092af3991dd08a066581",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632203",
+            "county_id":102073493,
+            "locality_id":102019279,
+            "neighbourhood_id":85768559,
+            "region_id":85672001,
+            "venue_id":1108702963
+        }
+    ],
+    "wof:id":1108702963,
+    "wof:lastmodified":1474570894,
+    "wof:name":"Propertykita.com",
+    "wof:parent_id":85768559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sale",
+        "rent",
+        "property",
+        "tips-tricks",
+        "renovation",
+        "legal",
+        "financial"
+    ]
+},
+  "bbox": [
+    106.888431,
+    -6.196692,
+    106.888431,
+    -6.196692
+],
+  "geometry": {"coordinates":[106.888431,-6.196692],"type":"Point"}
+}
